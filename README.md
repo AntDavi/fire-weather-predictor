@@ -1,5 +1,7 @@
 # Fire Weather Predictor
 
+[![CI](https://github.com/AntDavi/fire-weather-predictor/actions/workflows/ci.yml/badge.svg)](https://github.com/AntDavi/fire-weather-predictor/actions/workflows/ci.yml)
+
 API REST para detecção de hotspots de queimadas e predição de risco de incêndio florestal em tempo real.
 
 **Contexto**: 32º Prêmio Jovem Cientista CNPq 2026 — "IA & Meio Ambiente"
